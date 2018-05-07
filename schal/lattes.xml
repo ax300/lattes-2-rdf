@@ -1,0 +1,253 @@
+: CVLattesShape  a sh:NodeShape;
+        sh:targetClass  :CVLattes ;
+        sh:nodeKind  sh:IRI ;
+        sh:property   : LattesId ;
+        sh:property   : Nome ;
+        sh:property   : BolsaProdutividade ;
+        sh:property   : UltimaAtualizacao ;
+        sh:property   : Formacoes ;
+        sh:property   : Publicacoes ;
+        sh:property   : Vinculos ;
+        sh:property   : Sexo .
+
+        :LattesId  sh:path schema:lattesId ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:integer .
+
+        :Nome  sh:path schema:nome ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:string .
+
+        : BolsaProdutividade sh:path schema:bolsaProdutividade ;
+        sh:maxCount 1;
+        sh: in (schema:…) .
+
+        : UltimaAtualizacao sh:path schema: ultimaAtualizacao ;
+        sh:maxCount 1;
+        sh:datatype xsd:date .
+
+        :Formacoes sh:path schema:formacoes ;
+        sh:class (node) :Formacao .
+
+        :Publicacoes sh:path schema:publicacoes ;
+        sh:class  :Publicacao .
+
+        :AtuacaoProfissional sh:path schema:vinculoProfissional ;
+        sh:class  :AtuacaoProfissional .
+
+        :Sexo sh:path schema:sexo ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:or  (
+        [ sh:in  (schema:Masculino  schema:Feminino)  ]
+        [ sh:datatype xsd:string ]
+        )  .
+
+        :FormacaoShape  a sh:NodeShape;
+        sh:targetClass  :Formacao ;
+        sh:nodeKind  sh:IRI ;
+        sh:property   : Periodo ;
+        sh:property   : Inicio ;
+        sh:property   : Fim ;
+        sh:property   : TítuloTrabalho ;
+        sh:property   : Programa ;
+        sh:property   : Orientador ;
+        sh:property   : CoOrientador ;
+        sh:property   : Formando  .
+
+        :Periodo  sh:path schema:periodo ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:string .
+
+        :Inicio  sh:path schema:inicio ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:date .
+
+        : Fim sh:path schema:fim ;
+        sh:maxCount 1;
+        sh:datatype xsd:date .
+
+        : TituloTrabalho sh:path schema: titulotrabalho ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:string .
+
+        :Programa sh:path schema:programa ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:class :Programa .
+
+        :Oferecido sh:path schema:oferecido ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:class :Instituicao .
+
+        :Orientador sh:path schema:orientador ;
+        sh:maxCount 1;
+        sh:class :CVLattes .
+
+        :CoOrientador sh:path schema:coorientador ;
+        sh:maxCount 1;
+        sh:class :CVLattes .
+
+        :Formando sh:path schema:formando ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:class :CVLattes .
+
+        :AtuacaoProfissionalShape  a sh:NodeShape;
+        sh:targetClass  :AtuacaoProfissional s ;
+        sh:nodeKind  sh:IRI ;
+        sh:property   : Periodo ;
+        sh:property   : Inicio ;
+        sh:property   : Fim ;
+        sh:property   : Instituicao ;
+        sh:property  :Atividade .
+        .
+        :Periodo  sh:path schema:periodo ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:string .
+
+        :Inicio  sh:path schema:inicio ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:date .
+
+        : Fim sh:path schema:fim ;
+        sh:maxCount 1;
+        sh:datatype xsd:date .
+
+        : Instituicao sh:path schema:instituicao ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:class :Instituicao .
+
+        :Atividade sh:path schema:atividade ;
+        sh:minCount 1;
+        sh:class :Atividade .
+
+        :PublicacaoShape a sh:NodeShape;
+        sh:targetClass  : Publicacao ;
+        sh:nodeKind  sh:IRI ;
+        sh:property   : Titulo ;
+        sh:property   : Autores .
+
+        : Titulo sh:path schema:titulo ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:string .
+
+        : Autores sh:path schema:autores ;
+        sh:minCount 1;
+        sh: or (
+        [  sh: class :CVLattes ]
+        [  sh:datatype xsd:string ]
+        )
+
+        :ArtigoPeriodicoShape a sh:NodeShape;
+        sh:targetClass  : ArtigoPeriodico ;
+        sh:nodeKind  sh:IRI ;
+        sh:class  schema:Publicacao ;
+        sh:property   : PagInic ;
+        sh:property   : PagFim;
+        sh:property   :PublicadoEm;
+        sh:property   :NumExemplar;
+        sh:property   :Volume;
+        sh:property   :DataPub .
+
+        : PagInic sh:path schema:pagInic ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:positiveinteger .
+
+        : PagFim sh:path schema:pagFim ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:positiveinteger .
+
+        :PublicadoEm sh:path schema:publicadoEm ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:class :Periodico .
+
+        :NumExemplar sh:path schema:numExemplar ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:positiveinteger .
+
+        :Volume sh:path schema:volume ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:positiveinteger .
+
+        :DataPub  sh:path schema:dataPub ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:date .
+
+        :ArtigoCongressoShape a sh:NodeShape;
+        sh:targetClass  : ArtigoCongresso ;
+        sh:nodeKind  sh:IRI ;
+        sh:class  schema:Publicacao ;
+        sh:property   : PagInic ;
+        sh:property   : PagFim;
+        sh:property   :Congresso;
+        sh:property   :Volume;
+        sh:property   :DataPub .
+
+        : PagInic sh:path schema:pagInic ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:positiveinteger .
+
+        : PagFim sh:path schema:pagFim ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:positiveinteger .
+
+        :Congresso sh:path schema:congresso ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:class :Congresso .
+
+        :Volume sh:path schema:volume ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:positiveinteger .
+
+        :DataPub  sh:path schema:dataPub ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:date .
+
+        :PeriodicoShape a sh:NodeShape;
+        sh:targetClass  : Periodico ;
+        sh:nodeKind  sh:IRI ;
+        sh:property   : TituloPer ;
+        sh:property   : LocalPub;
+        sh:property   : Editora .
+
+        : TituloPer sh:path schema:tituloPer ;
+        sh:minCount 1;
+        sh:maxCount 1;
+        sh:datatype xsd:string .
+
+        : LocalPub sh:path schema:localPub ;
+        sh:maxCount 1;
+        sh:datatype xsd:string . (Algum dataset geográfico)
+
+        : Editora sh:path schema:editora ;
+        sh:maxCount 1;
+        sh:datatype xsd:string .
+
+        :CongressoShape a sh:NodeShape;
+        sh:targetClass  : Periodico ;
+        sh:nodeKind  sh:IRI ;
+        sh:property   : NomeCongresso ;
+        sh:property   : LocalPub;
+        sh:property   : Editora .

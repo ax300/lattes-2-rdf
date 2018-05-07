@@ -1,0 +1,364 @@
+<http://lattes.cnpq.br/0029233355476625>	<http://vivoweb.org/ontology/core#Company>	<0029233355476625033300000002>.
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#Department>	"Departamento de Ciência da Computação".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#address1>	"Avenida Antônio Carlos, 6627".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#addressCountry>	"Brasil".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#addressState>	"MG".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#addressPostalCode>	"31270-010".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#addressCity>	"Belo Horizonte".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#address2>	"Pampulha".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#address1>	"Rua Oliveira Pena, 126".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#addressCountry>	"Brasil".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#addressState>	"MG".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#addressPostalCode>	"31275-130".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#addressCity>	"Belo Horizonte".
+<0029233355476625033300000002>	<http://vivoweb.org/ontology/core#address2>	"São José".
+<http://lattes.cnpq.br/0029233355476625>	<http://vivoweb.org/ontology/core#AcademicDegree>	<002923335547662500000001>.
+<002923335547662500000001>	<http://vivoweb.org/ontology/core#University>	"Escola de Engenharia".
+<002923335547662500000001>	<http://vivoweb.org/ontology/core#Course>	"Engenharia Quimica".
+<002923335547662500000001>	<http://rdfs.org/resume-rdf/cv.rdfs#eduStartDate>	"1967".
+<002923335547662500000001>	<http://rdfs.org/resume-rdf/cv.rdfs#eduGradDate>	"1971".
+<http://lattes.cnpq.br/0029233355476625>	<http://vivoweb.org/ontology/core#AcademicDegree>	<002923335547662531040047>.
+<002923335547662531040047>	<http://vivoweb.org/ontology/core#University>	"Pontifícia Universidade Católica do Rio de Janeiro".
+<002923335547662531040047>	<http://vivoweb.org/ontology/core#Course>	"Informática".
+<002923335547662531040047>	<http://rdfs.org/resume-rdf/cv.rdfs#eduStartDate>	"1972".
+<002923335547662531040047>	<http://rdfs.org/resume-rdf/cv.rdfs#eduGradDate>	"1975".
+<http://lattes.cnpq.br/0029233355476625>	<http://vivoweb.org/ontology/core#AcademicDegree>	<002923335547662500000002>.
+<002923335547662500000002>	<http://vivoweb.org/ontology/core#University>	"University of California, Los Angeles".
+<002923335547662500000002>	<http://vivoweb.org/ontology/core#Course>	"Ciência da Computação".
+<002923335547662500000002>	<http://rdfs.org/resume-rdf/cv.rdfs#eduStartDate>	"1977".
+<002923335547662500000002>	<http://rdfs.org/resume-rdf/cv.rdfs#eduGradDate>	"1981".
+<0029233355476625033300000002>	<http://xmlns.com/foaf/0.1/name>	"Roberto da Silva Bigonha".
+<0029233355476625033300000002>	<http://rdfs.org/resume-rdf/cv.rdfs#hasNationality>	"B".
+<0029233355476625033300000002>	<http://rdfs.org/resume-rdf/cv.rdfs#birthPlace>	"Ubá".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/dad9826e-d9a4-4b03-bea6-b9091532c7a2>.
+<https://doi.org/dad9826e-d9a4-4b03-bea6-b9091532c7a2>	<http://purl.org/ontology/bibo/AcademicArticle>	"An Algorithm for Dynamic Configuration of Mobile System Agents".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2147157840592913>.
+<http://lattes.cnpq.br/2147157840592913>	<http://purl.org/dc/terms/creator>	"VALENTE, M. T. O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/e9681c2b-a715-43bc-8a87-ed2778a79642>.
+<https://doi.org/e9681c2b-a715-43bc-8a87-ed2778a79642>	<http://purl.org/ontology/bibo/AcademicArticle>	"Linguagens para Computação Móvel na Internet".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2147157840592913>.
+<http://lattes.cnpq.br/2147157840592913>	<http://purl.org/dc/terms/creator>	"VALENTE, M. T. O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/8886634592087842>.
+<http://lattes.cnpq.br/8886634592087842>	<http://purl.org/dc/terms/creator>	"LOUREIRO, Antônio F.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/5ffd526d-964b-4e0c-a77f-726f6b4673ec>.
+<https://doi.org/5ffd526d-964b-4e0c-a77f-726f6b4673ec>	<http://purl.org/ontology/bibo/AcademicArticle>	"Técnicas para Manipulação Eficiente de Arquivos de Acesso Direto em PL/I".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/7d95148c-d528-4ec8-9dab-cf94a617b791>.
+<http://lattes.cnpq.br/7d95148c-d528-4ec8-9dab-cf94a617b791>	<http://purl.org/dc/terms/creator>	"PADUA, Clarindo I. P. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/483b251e-df74-4f6a-8a34-d6c9dc1f37b6>.
+<https://doi.org/483b251e-df74-4f6a-8a34-d6c9dc1f37b6>	<http://purl.org/ontology/bibo/AcademicArticle>	"Economia de Memória na Declaração de Procedimentos em PL/I".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/69376251-0a8c-47bf-80dd-5883fa4576e7>.
+<http://lattes.cnpq.br/69376251-0a8c-47bf-80dd-5883fa4576e7>	<http://purl.org/dc/terms/creator>	"PADUA, Clarindo I. P. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/39f3a8ee-4012-4b79-b7d4-db8fb9b92d5c>.
+<https://doi.org/39f3a8ee-4012-4b79-b7d4-db8fb9b92d5c>	<http://purl.org/ontology/bibo/AcademicArticle>	"Algoritmo Para Construção de Tabelas de Símbolos para Linguagens de Estrutura de Blocos".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/eb2ab2b8-610f-4477-ba9d-f3cadd326602>.
+<https://doi.org/eb2ab2b8-610f-4477-ba9d-f3cadd326602>	<http://purl.org/ontology/bibo/AcademicArticle>	"Asynchronous Remote Method Invocation in Java".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/4204854507879711>.
+<http://lattes.cnpq.br/4204854507879711>	<http://purl.org/dc/terms/creator>	"Wendell F. Taveira".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2147157840592913>.
+<http://lattes.cnpq.br/2147157840592913>	<http://purl.org/dc/terms/creator>	"VALENTE, M. T. O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.3217/jucs-010-07-0824>.
+<https://doi.org/10.3217/jucs-010-07-0824>	<http://purl.org/ontology/bibo/AcademicArticle>	"Tactics for Remote Method Invocation".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/4608001746330875>.
+<http://lattes.cnpq.br/4608001746330875>	<http://purl.org/dc/terms/creator>	"Pereira, Fernando M.Q.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2147157840592913>.
+<http://lattes.cnpq.br/2147157840592913>	<http://purl.org/dc/terms/creator>	"VALENTE, M. T. O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/9877637800155677>.
+<http://lattes.cnpq.br/9877637800155677>	<http://purl.org/dc/terms/creator>	"PIRES, W. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/4ac9ab7f-4a3e-41cf-8047-9e1f2a085dbd>.
+<https://doi.org/4ac9ab7f-4a3e-41cf-8047-9e1f2a085dbd>	<http://purl.org/ontology/bibo/AcademicArticle>	"MetaJ: An Extensible Environment for Metaprogramming in Java".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/f0019fe2-0dc8-4e33-b3b6-1e95f7957e58>.
+<http://lattes.cnpq.br/f0019fe2-0dc8-4e33-b3b6-1e95f7957e58>	<http://purl.org/dc/terms/creator>	"OLIVEIRA, Ademir A.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/be8bdd42-b6ca-42e9-9622-da426e33a37e>.
+<http://lattes.cnpq.br/be8bdd42-b6ca-42e9-9622-da426e33a37e>	<http://purl.org/dc/terms/creator>	"BRAGA, T. H.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/4915659948263445>.
+<http://lattes.cnpq.br/4915659948263445>	<http://purl.org/dc/terms/creator>	"MAIA, M. A.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/80c6041a-2a33-44fe-9fe8-6ccc4db60989>.
+<https://doi.org/80c6041a-2a33-44fe-9fe8-6ccc4db60989>	<http://purl.org/ontology/bibo/AcademicArticle>	"Chamada Remota de Métodos na Plataforma J2ME/CLDC".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/4608001746330875>.
+<http://lattes.cnpq.br/4608001746330875>	<http://purl.org/dc/terms/creator>	"Pereira, Fernando M.Q.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2147157840592913>.
+<http://lattes.cnpq.br/2147157840592913>	<http://purl.org/dc/terms/creator>	"VALENTE, M. T. O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/500e24d7-ca9a-4ebd-9d53-92c88b9b2e2c>.
+<https://doi.org/500e24d7-ca9a-4ebd-9d53-92c88b9b2e2c>	<http://purl.org/ontology/bibo/AcademicArticle>	"What's the Name of the Game? Formal Specification of Artificial Intelligence Games".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/9853587838713229>.
+<http://lattes.cnpq.br/9853587838713229>	<http://purl.org/dc/terms/creator>	"IORIO, V. O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0281123427918307>.
+<http://lattes.cnpq.br/0281123427918307>	<http://purl.org/dc/terms/creator>	"OLIVEIRA, Alcione".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/1362909e-0a79-4f23-884e-23c319b287eb>.
+<https://doi.org/1362909e-0a79-4f23-884e-23c319b287eb>	<http://purl.org/ontology/bibo/AcademicArticle>	"Arcademis: A Framework for Object-Oriented Communication Middleware Development".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/4608001746330875>.
+<http://lattes.cnpq.br/4608001746330875>	<http://purl.org/dc/terms/creator>	"Pereira, Fernando M.Q.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2147157840592913>.
+<http://lattes.cnpq.br/2147157840592913>	<http://purl.org/dc/terms/creator>	"VALENTE, M. T. O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.3217/jucs-013-06-0753>.
+<https://doi.org/10.3217/jucs-013-06-0753>	<http://purl.org/ontology/bibo/AcademicArticle>	"Optimized Compilation of Around Advice for Aspect Oriented Programs".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6f7ffc3b-d347-4507-93fd-7c69c785f495>.
+<http://lattes.cnpq.br/6f7ffc3b-d347-4507-93fd-7c69c785f495>	<http://purl.org/dc/terms/creator>	"CORDEIRO, E. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/3671374576170997>.
+<http://lattes.cnpq.br/3671374576170997>	<http://purl.org/dc/terms/creator>	"TIRELO, F.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.3217/jucs-013-06-0737>.
+<https://doi.org/10.3217/jucs-013-06-0737>	<http://purl.org/ontology/bibo/AcademicArticle>	"A Methodology for Removing LALR(1) Conflicts".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2096338746381666>.
+<http://lattes.cnpq.br/2096338746381666>	<http://purl.org/dc/terms/creator>	"PASSOS, L. T.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/7d21b79d-2ab9-4797-b678-86fd259310c2>.
+<https://doi.org/7d21b79d-2ab9-4797-b678-86fd259310c2>	<http://purl.org/ontology/bibo/AcademicArticle>	"Re-Estruturação de Software Dirigida por Conectividade Para Redução de Custo de Manutenção".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/57f5c077-a172-4055-8396-60d3157f2bb2>.
+<http://lattes.cnpq.br/57f5c077-a172-4055-8396-60d3157f2bb2>	<http://purl.org/dc/terms/creator>	"Ferreira, Kécia A. M.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/a11a3ad6-c9b3-4c2e-aef3-e345f0fcd516>.
+<http://lattes.cnpq.br/a11a3ad6-c9b3-4c2e-aef3-e345f0fcd516>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/bd88645a-44c4-425e-87f7-25a9a0877e50>.
+<https://doi.org/bd88645a-44c4-425e-87f7-25a9a0877e50>	<http://purl.org/ontology/bibo/AcademicArticle>	"Assessing Program Comprehension Tools with the Communicability Evaluation Method".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/eacea5e7-716f-48c8-8c04-67f70b2f6d08>.
+<http://lattes.cnpq.br/eacea5e7-716f-48c8-8c04-67f70b2f6d08>	<http://purl.org/dc/terms/creator>	"PINHEIRO, D. P.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/4915659948263445>.
+<http://lattes.cnpq.br/4915659948263445>	<http://purl.org/dc/terms/creator>	"MAIA, M. A.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2951269593210008>.
+<http://lattes.cnpq.br/2951269593210008>	<http://purl.org/dc/terms/creator>	"PRATES, R. O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/e74b1eb8-65ec-42b5-afa6-8dd90922a488>.
+<http://lattes.cnpq.br/e74b1eb8-65ec-42b5-afa6-8dd90922a488>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1016/j.cl.2008.10.001>.
+<https://doi.org/10.1016/j.cl.2008.10.001>	<http://purl.org/ontology/bibo/AcademicArticle>	"A transformational language for mutant description".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/9836776931160228>.
+<http://lattes.cnpq.br/9836776931160228>	<http://purl.org/dc/terms/creator>	"SIMÃO, Adenilso".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/8807333466702951>.
+<http://lattes.cnpq.br/8807333466702951>	<http://purl.org/dc/terms/creator>	"MALDONADO, José Carlos".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/d815c6d9-1bbf-4de1-959f-900d9469d99f>.
+<http://lattes.cnpq.br/d815c6d9-1bbf-4de1-959f-900d9469d99f>	<http://purl.org/dc/terms/creator>	"da Silva Bigonha, Roberto".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1016/S0950-7051(01)00141-1>.
+<https://doi.org/10.1016/S0950-7051(01)00141-1>	<http://purl.org/ontology/bibo/AcademicArticle>	"Towards a communication model applied to the interface design process".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/36358a18-5cf8-4480-b60f-5c2306131cfe>.
+<http://lattes.cnpq.br/36358a18-5cf8-4480-b60f-5c2306131cfe>	<http://purl.org/dc/terms/creator>	"SALLES, J. P.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/84be8fad-271f-4422-925c-c646ae3044c3>.
+<http://lattes.cnpq.br/84be8fad-271f-4422-925c-c646ae3044c3>	<http://purl.org/dc/terms/creator>	"BARANAUSKAS, Cecília".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/18772e14-75fc-4fe7-adf8-85b76ff3e1ac>.
+<http://lattes.cnpq.br/18772e14-75fc-4fe7-adf8-85b76ff3e1ac>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.3217/jucs-014-21-3592>.
+<https://doi.org/10.3217/jucs-014-21-3592>	<http://purl.org/ontology/bibo/AcademicArticle>	"Disentangling Denotational Semantics Definitions".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/3671374576170997>.
+<http://lattes.cnpq.br/3671374576170997>	<http://purl.org/dc/terms/creator>	"TIRELO, F.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/a046562e-2a55-4888-9a69-c44ee7ffa6f8>.
+<http://lattes.cnpq.br/a046562e-2a55-4888-9a69-c44ee7ffa6f8>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/92aecf67-6c98-4a65-a70d-57752debb4ac>.
+<http://lattes.cnpq.br/92aecf67-6c98-4a65-a70d-57752debb4ac>	<http://purl.org/dc/terms/creator>	"SARAIVA, J.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.3217/jucs-014-21-3447>.
+<https://doi.org/10.3217/jucs-014-21-3447>	<http://purl.org/ontology/bibo/AcademicArticle>	"An LALR Parser Generator Supporting Conflict Resolution".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2096338746381666>.
+<http://lattes.cnpq.br/2096338746381666>	<http://purl.org/dc/terms/creator>	"PASSOS, L. T.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/abb946e1-04ee-4bc8-adf4-29c193c3d08d>.
+<http://lattes.cnpq.br/abb946e1-04ee-4bc8-adf4-29c193c3d08d>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1016/j.jss.2011.05.044>.
+<https://doi.org/10.1016/j.jss.2011.05.044>	<http://purl.org/ontology/bibo/AcademicArticle>	"Identifying Thresholds for Object-Oriented Software Metrics".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/3fa2d3a1-be84-4eb3-901d-9b9c5380522d>.
+<http://lattes.cnpq.br/3fa2d3a1-be84-4eb3-901d-9b9c5380522d>	<http://purl.org/dc/terms/creator>	"Ferreira, Kécia A. M.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/6660127471891321>.
+<http://lattes.cnpq.br/6660127471891321>	<http://purl.org/dc/terms/creator>	"BIGONHA, M. A. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/ee44412a-a5fe-4c04-bc0f-f6a499c1c8e7>.
+<http://lattes.cnpq.br/ee44412a-a5fe-4c04-bc0f-f6a499c1c8e7>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/97e3b8b1-9f50-4d86-b65b-594d4ac84960>.
+<http://lattes.cnpq.br/97e3b8b1-9f50-4d86-b65b-594d4ac84960>	<http://purl.org/dc/terms/creator>	"Mendes, F.O. Luiz".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/eaafbfc0-403c-48e5-a20e-06f9cd2f4e77>.
+<http://lattes.cnpq.br/eaafbfc0-403c-48e5-a20e-06f9cd2f4e77>	<http://purl.org/dc/terms/creator>	"Almeida, C. Heitor".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1016/j.scico.2013.03.012>.
+<https://doi.org/10.1016/j.scico.2013.03.012>	<http://purl.org/ontology/bibo/AcademicArticle>	"Efficient static checker for tainted variable attacks".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0cf330c5-36b1-4f48-ab11-0302dc368579>.
+<http://lattes.cnpq.br/0cf330c5-36b1-4f48-ab11-0302dc368579>	<http://purl.org/dc/terms/creator>	"RIMSA, ANDREI".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/7372108d-8bcc-4c14-b347-34f75689d7c4>.
+<http://lattes.cnpq.br/7372108d-8bcc-4c14-b347-34f75689d7c4>	<http://purl.org/dc/terms/creator>	"D'AMORIM, MARCELO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/182cd04f-9f11-4e83-a730-ff27cfab18bb>.
+<http://lattes.cnpq.br/182cd04f-9f11-4e83-a730-ff27cfab18bb>	<http://purl.org/dc/terms/creator>	"QUINTÃO PEREIRA, FERNANDO MAGNO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/f8006f98-865d-4577-9db0-95909ddb6281>.
+<http://lattes.cnpq.br/f8006f98-865d-4577-9db0-95909ddb6281>	<http://purl.org/dc/terms/creator>	"BIGONHA, ROBERTO S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1145/2507288.2507314>.
+<https://doi.org/10.1145/2507288.2507314>	<http://purl.org/ontology/bibo/AcademicArticle>	"Qualitas.class corpus".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/e23a0607-a95f-431f-ab4a-211b1436e07a>.
+<http://lattes.cnpq.br/e23a0607-a95f-431f-ab4a-211b1436e07a>	<http://purl.org/dc/terms/creator>	"Terra, Ricardo".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/2b17ba56-8d05-4dce-9c74-228e7e5277c1>.
+<http://lattes.cnpq.br/2b17ba56-8d05-4dce-9c74-228e7e5277c1>	<http://purl.org/dc/terms/creator>	"MIRANDA, LUIS FERNANDO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/14e30a9b-17df-4549-bd1c-f7944de36f0a>.
+<http://lattes.cnpq.br/14e30a9b-17df-4549-bd1c-f7944de36f0a>	<http://purl.org/dc/terms/creator>	"VALENTE, MARCO TULIO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/b66eb11f-6be2-45e9-a77b-9f7b13b45a20>.
+<http://lattes.cnpq.br/b66eb11f-6be2-45e9-a77b-9f7b13b45a20>	<http://purl.org/dc/terms/creator>	"BIGONHA, ROBERTO S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1016/j.jss.2014.01.033>.
+<https://doi.org/10.1016/j.jss.2014.01.033>	<http://purl.org/ontology/bibo/AcademicArticle>	"Predicting software defects with causality tests".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/56e9d3ec-d935-49f8-bfe3-54f9161d975c>.
+<http://lattes.cnpq.br/56e9d3ec-d935-49f8-bfe3-54f9161d975c>	<http://purl.org/dc/terms/creator>	"COUTO, CESAR".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/57cc023d-fd3b-4eb0-878f-aeda232ccad3>.
+<http://lattes.cnpq.br/57cc023d-fd3b-4eb0-878f-aeda232ccad3>	<http://purl.org/dc/terms/creator>	"PIRES, PEDRO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/b6c8c460-2c85-4352-8eff-3d8ef3bc5763>.
+<http://lattes.cnpq.br/b6c8c460-2c85-4352-8eff-3d8ef3bc5763>	<http://purl.org/dc/terms/creator>	"VALENTE, MARCO TULIO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/7e0a2afd-8f0a-49a2-9d2a-d43107dbd777>.
+<http://lattes.cnpq.br/7e0a2afd-8f0a-49a2-9d2a-d43107dbd777>	<http://purl.org/dc/terms/creator>	"BIGONHA, ROBERTO S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/5a266604-47dd-4861-ab06-2d273b0d2101>.
+<http://lattes.cnpq.br/5a266604-47dd-4861-ab06-2d273b0d2101>	<http://purl.org/dc/terms/creator>	"ANQUETIL, NICOLAS".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1186/2195-1721-2-1>.
+<https://doi.org/10.1186/2195-1721-2-1>	<http://purl.org/ontology/bibo/AcademicArticle>	"BugMaps-Granger: a tool for visualizing and predicting bugs using Granger causality tests".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/aadff82f-c873-4a29-b87a-5659170eff21>.
+<http://lattes.cnpq.br/aadff82f-c873-4a29-b87a-5659170eff21>	<http://purl.org/dc/terms/creator>	"COUTO, CESAR".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/5a23e845-02b5-4a8a-b6e2-7adc9beff19a>.
+<http://lattes.cnpq.br/5a23e845-02b5-4a8a-b6e2-7adc9beff19a>	<http://purl.org/dc/terms/creator>	"VALENTE, MARCO TULIO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/92817b45-1113-4a5e-8535-f57618829bf1>.
+<http://lattes.cnpq.br/92817b45-1113-4a5e-8535-f57618829bf1>	<http://purl.org/dc/terms/creator>	"PIRES, PEDRO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/fb7ace15-6161-4b58-9f1f-0761591116a0>.
+<http://lattes.cnpq.br/fb7ace15-6161-4b58-9f1f-0761591116a0>	<http://purl.org/dc/terms/creator>	"HORA, ANDRE".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/e33175b5-ad28-4091-8333-1548d8fc74dc>.
+<http://lattes.cnpq.br/e33175b5-ad28-4091-8333-1548d8fc74dc>	<http://purl.org/dc/terms/creator>	"ANQUETIL, NICOLAS".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0a80cfa0-b6c9-43da-8987-7cea382df0cf>.
+<http://lattes.cnpq.br/0a80cfa0-b6c9-43da-8987-7cea382df0cf>	<http://purl.org/dc/terms/creator>	"BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1002/spe.2228>.
+<https://doi.org/10.1002/spe.2228>	<http://purl.org/ontology/bibo/AcademicArticle>	"A recommendation system for repairing violations detected by static architecture conformance checking".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/26f93e67-1651-4f67-96f7-5bf10028a077>.
+<http://lattes.cnpq.br/26f93e67-1651-4f67-96f7-5bf10028a077>	<http://purl.org/dc/terms/creator>	"Terra, Ricardo".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/980d88eb-51c2-499a-b52f-30bd2f01fbe2>.
+<http://lattes.cnpq.br/980d88eb-51c2-499a-b52f-30bd2f01fbe2>	<http://purl.org/dc/terms/creator>	"VALENTE, MARCO TULIO".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/4576fe39-3928-4ede-9073-07aeb0c6af4d>.
+<http://lattes.cnpq.br/4576fe39-3928-4ede-9073-07aeb0c6af4d>	<http://purl.org/dc/terms/creator>	"CZARNECKI, KRZYSZTOF".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/353ae3e7-856c-4d1d-bb13-17d563a3acd1>.
+<http://lattes.cnpq.br/353ae3e7-856c-4d1d-bb13-17d563a3acd1>	<http://purl.org/dc/terms/creator>	"BIGONHA, ROBERTO S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1016/j.scico.2014.02.020>.
+<https://doi.org/10.1016/j.scico.2014.02.020>	<http://purl.org/ontology/bibo/AcademicArticle>	"The formalization and implementation of Adaptable Parsing Expression Grammars".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/f699a22c-b7f6-4b13-81f1-1bc476ffc660>.
+<http://lattes.cnpq.br/f699a22c-b7f6-4b13-81f1-1bc476ffc660>	<http://purl.org/dc/terms/creator>	"REIS, LEONARDO V.S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/278129b5-0779-4b64-bc3f-54f7cef72a35>.
+<http://lattes.cnpq.br/278129b5-0779-4b64-bc3f-54f7cef72a35>	<http://purl.org/dc/terms/creator>	"BIGONHA, ROBERTO S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/30a2bdc5-71f9-4a6a-b660-b3387f04b470>.
+<http://lattes.cnpq.br/30a2bdc5-71f9-4a6a-b660-b3387f04b470>	<http://purl.org/dc/terms/creator>	"DI IORIO, VLADIMIR O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/f8101edc-027b-4488-8f0a-0772f15125e0>.
+<http://lattes.cnpq.br/f8101edc-027b-4488-8f0a-0772f15125e0>	<http://purl.org/dc/terms/creator>	"AMORIM, LUIS EDUARDO S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10.1016/j.cl.2015.01.002>.
+<https://doi.org/10.1016/j.cl.2015.01.002>	<http://purl.org/ontology/bibo/AcademicArticle>	"An on-the-fly grammar modification mechanism for composing and defining extensible languages".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/5ecf7501-a0a1-4319-89db-f8c5e0899fd1>.
+<http://lattes.cnpq.br/5ecf7501-a0a1-4319-89db-f8c5e0899fd1>	<http://purl.org/dc/terms/creator>	"REIS, Leonardo V. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/e530ff10-581a-4b71-ad45-57a65dd28661>.
+<http://lattes.cnpq.br/e530ff10-581a-4b71-ad45-57a65dd28661>	<http://purl.org/dc/terms/creator>	"DI IORIO, Vladimir O.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/10006cf7-6e5d-4aec-aaa1-8fe2e0957b4d>.
+<https://doi.org/10006cf7-6e5d-4aec-aaa1-8fe2e0957b4d>	<http://purl.org/ontology/bibo/Book>	"Memórias da Sociedade Brasileira de Computação".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/8e76c235-6fcf-4e8e-9807-655c3d205b36>.
+<http://lattes.cnpq.br/8e76c235-6fcf-4e8e-9807-655c3d205b36>	<http://purl.org/dc/terms/creator>	"BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/af648253-7ea7-4d2c-944b-5f7fa9b87ffb>.
+<http://lattes.cnpq.br/af648253-7ea7-4d2c-944b-5f7fa9b87ffb>	<http://purl.org/dc/terms/creator>	"MEDEIROS, C. B.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/5fc44fc7-ea9b-4f97-a28d-c54db61fbacb>.
+<http://lattes.cnpq.br/5fc44fc7-ea9b-4f97-a28d-c54db61fbacb>	<http://purl.org/dc/terms/creator>	"MAMMANA, C. Z.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0e097100-9c00-4ba0-a6eb-cfcf08074683>.
+<http://lattes.cnpq.br/0e097100-9c00-4ba0-a6eb-cfcf08074683>	<http://purl.org/dc/terms/creator>	"SANTOS, C. S.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/1db83402-f8ca-4432-8740-517bb82e7cef>.
+<http://lattes.cnpq.br/1db83402-f8ca-4432-8740-517bb82e7cef>	<http://purl.org/dc/terms/creator>	"MENASCE, D. A.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/a1051b9f-3055-474a-a7cc-c50d70545483>.
+<http://lattes.cnpq.br/a1051b9f-3055-474a-a7cc-c50d70545483>	<http://purl.org/dc/terms/creator>	"WAGNER, F. R.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/edd0646c-373f-47e9-90bf-dcd8dd286b99>.
+<http://lattes.cnpq.br/edd0646c-373f-47e9-90bf-dcd8dd286b99>	<http://purl.org/dc/terms/creator>	"MARTINS, L. C.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/bd1009a9-28e6-4335-91a2-f6903672104e>.
+<http://lattes.cnpq.br/bd1009a9-28e6-4335-91a2-f6903672104e>	<http://purl.org/dc/terms/creator>	"SILVEIRA, P. M.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/bc1af434-5801-4911-b8cf-8ae10b161f76>.
+<http://lattes.cnpq.br/bc1af434-5801-4911-b8cf-8ae10b161f76>	<http://purl.org/dc/terms/creator>	"REIS, R. A. L.".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/95e02f14-425a-4c66-ad5d-54e84e28ca9d>.
+<https://doi.org/95e02f14-425a-4c66-ad5d-54e84e28ca9d>	<http://purl.org/ontology/bibo/Book>	"A Trajetória dos Cursos de Graduação da Área de Computação e Informática".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/c621abde-56c6-4feb-8b6b-b21fc989cdcb>.
+<http://lattes.cnpq.br/c621abde-56c6-4feb-8b6b-b21fc989cdcb>	<http://purl.org/dc/terms/creator>	"CABRAL, M. I. C.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/3088face-c2b3-42f2-8e6b-19c965f9c8cf>.
+<http://lattes.cnpq.br/3088face-c2b3-42f2-8e6b-19c965f9c8cf>	<http://purl.org/dc/terms/creator>	"NUNES, D.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/b093a5c1-f262-4534-a578-06f69c811afc>.
+<http://lattes.cnpq.br/b093a5c1-f262-4534-a578-06f69c811afc>	<http://purl.org/dc/terms/creator>	"COSTA, T.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/8505e1b7-0792-4238-9cbd-1856aac818ee>.
+<http://lattes.cnpq.br/8505e1b7-0792-4238-9cbd-1856aac818ee>	<http://purl.org/dc/terms/creator>	"Wagner, Flávio R.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/52a18d6b-5a95-4239-b49e-444d416ffa32>.
+<http://lattes.cnpq.br/52a18d6b-5a95-4239-b49e-444d416ffa32>	<http://purl.org/dc/terms/creator>	"OLIVEIRA, J. M.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/12cae3aa-37e9-48d4-8f98-1326b2a88fe0>.
+<https://doi.org/12cae3aa-37e9-48d4-8f98-1326b2a88fe0>	<http://purl.org/ontology/bibo/Chapter>	"Desenvolvimento de Software Orientado por Aspectos".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/c548f79f-c8c6-4cd3-b0a2-f7267763d247>.
+<https://doi.org/c548f79f-c8c6-4cd3-b0a2-f7267763d247>	<http://purl.org/ontology/bibo/Chapter>	"A Coordination Model for ad hoc Mobile Systems".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/cff1f8a6-ccfd-4a1c-8965-eba91e2f2e4d>.
+<https://doi.org/cff1f8a6-ccfd-4a1c-8965-eba91e2f2e4d>	<http://purl.org/ontology/bibo/Chapter>	"Lei de Informática e Propriedade Intelectual".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/c77cf7a8-952c-4476-b0ad-2033c4b02613>.
+<https://doi.org/c77cf7a8-952c-4476-b0ad-2033c4b02613>	<http://purl.org/dc/terms/title>	"XI Simpósio Brasileiro de Linguagens de Programação".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/5fafa2db-5643-4eb2-a69b-ac44bb455bc5>.
+<http://lattes.cnpq.br/5fafa2db-5643-4eb2-a69b-ac44bb455bc5>	<http://purl.org/dc/terms/creator>	"MUSICANTE, M. A.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/cbe2bcd1-9487-4cd5-b66a-91872285d3d9>.
+<https://doi.org/cbe2bcd1-9487-4cd5-b66a-91872285d3d9>	<http://purl.org/dc/terms/title>	"V Simpósio Brasileiro de Software Básico".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/d057c8bf-9dca-4b13-8de8-944f2258877f>.
+<https://doi.org/d057c8bf-9dca-4b13-8de8-944f2258877f>	<http://purl.org/dc/terms/title>	"V Simpósio Brasileiro de Engenharia de Sofware".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/751ff5f2-6239-467c-b69a-6ee7f1530d9f>.
+<https://doi.org/751ff5f2-6239-467c-b69a-6ee7f1530d9f>	<http://purl.org/dc/terms/title>	"Special Issue (June 2007) of the Journal of Universal Computer Science".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/c9139428-1165-4533-a891-1062967a6ff1>.
+<http://lattes.cnpq.br/c9139428-1165-4533-a891-1062967a6ff1>	<http://purl.org/dc/terms/creator>	"MUSICANTE, M. A.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/f939c405-8dd9-4914-9c04-f3e94894d69c>.
+<https://doi.org/f939c405-8dd9-4914-9c04-f3e94894d69c>	<http://purl.org/dc/terms/title>	"II Workshop Sobre Educação em Informática".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/ee258fbe-6a95-4ae3-b633-7ae3f5b9143c>.
+<https://doi.org/ee258fbe-6a95-4ae3-b633-7ae3f5b9143c>	<http://purl.org/dc/terms/title>	"I Simpósio Brasileiro de Linguagens de Programação".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/61e07e7c-e6a0-42c3-9cf2-1785c4184c29>.
+<https://doi.org/61e07e7c-e6a0-42c3-9cf2-1785c4184c29>	<http://purl.org/dc/terms/title>	"XI Seminário Integrado de Software e Hardware".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/a34eeece-a6be-441f-b991-62148e6b905d>.
+<http://lattes.cnpq.br/a34eeece-a6be-441f-b991-62148e6b905d>	<http://purl.org/dc/terms/creator>	"BRAGA-FILHO, L. J.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/634d44b6-35b3-4efa-a1a3-a67659bdc0e9>.
+<http://lattes.cnpq.br/634d44b6-35b3-4efa-a1a3-a67659bdc0e9>	<http://purl.org/dc/terms/creator>	"OLIVEIRA, A. M.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/e08a4d62-95b1-4825-9412-1f3b7c4b84ad>.
+<http://lattes.cnpq.br/e08a4d62-95b1-4825-9412-1f3b7c4b84ad>	<http://purl.org/dc/terms/creator>	"RECH, Carlos E.".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/ontology/bibo/doi>	<https://doi.org/da2a7f3a-6a0d-495e-95cd-17ec8095c4e5>.
+<https://doi.org/da2a7f3a-6a0d-495e-95cd-17ec8095c4e5>	<http://purl.org/dc/terms/title>	"III Workshop de Métodos Formais".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/e54bb231-2d77-413a-a55e-4fa7fc471901>.
+<http://lattes.cnpq.br/e54bb231-2d77-413a-a55e-4fa7fc471901>	<http://purl.org/dc/terms/creator>	"RIBEIRO, Leila".
+<http://lattes.cnpq.br/0029233355476625>	<http://www.cnpq.br/2001/XSL/Lattes>	<http://lattes.cnpq.br/0029233355476625>.
+<http://lattes.cnpq.br/0029233355476625>	<http://purl.org/dc/terms/creator>	"BIGONHA, R. S.;BIGONHA, Roberto S.;Roberto da Silva Bigonha;da Silva Bigonha, Roberto;BIGONHA, ROBERTO S.;BIGONHA, ROBERTO S".
